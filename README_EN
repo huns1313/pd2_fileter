@@ -37,10 +37,13 @@ The filter dynamically scales visibility based on your character level ($CLVL$) 
 
 ## ## INSTALLATION
 
-1. Copy the raw code from `matrix_architect.filter`.
-2. Paste it into your `default.filter` or custom filter file within your PD2 directory.
-3. Ensure your filter settings are enabled in the in-game menu.
+Path: Navigate to C:\Program Files (x86)\Diablo II\ProjectD2\filters\local.
 
+Deposit: Copy your .filter file into this local folder.
+
+Play: Launch the game and select the filter in the settings.
+
+Note: Make sure the file extension is .filter so the game engine detects it properly.
 ---
 
 > **Note:** This filter is built for speed. It utilizes aggressive auto-hiding for non-essential items in high-tier maps to maximize clear speed and eliminate visual noise.
