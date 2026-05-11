@@ -1,5 +1,3 @@
-Voici les deux versions. La version Québécoise utilise un ton plus direct et le jargon local des gamers d'ici, tandis que la version France est plus formelle.
-
 ---
 
 ### VERSION 1 : QUÉBEC (Le "Big" Version)
