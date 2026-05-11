@@ -1,5 +1,3 @@
----
-
 ### VERSION 1 : QUÉBEC (Le "Big" Version)
 
 **README_QC.md**
