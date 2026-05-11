@@ -71,6 +71,10 @@ La visibilité des objets s'adapte dynamiquement à votre progression :
 
 * **BASES ET ARTISANAT :** Affichage détaillé des statistiques d'objets Supérieurs ($ED$ / $AR$).
 
-## ## INSTALLATION
+## INSTALLATION (QUÉBEC)
+Le Chemin : Ouvre ton dossier C:\Program Files (x86)\Diablo II\ProjectD2\filters\local.
 
-### VERSION 3: ENGLISH (Global Elite)
+Le Dépôt : Garroche ton fichier matrix_architect.filter direct dans ce dossier-là.
+
+PLAY : Lance le jeu, va dans les options de filtres pis sélectionne-le.
+
